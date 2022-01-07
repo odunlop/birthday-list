@@ -1,12 +1,6 @@
 ### Background
 Completed as part of my Week 4 training on TDD and OOP.
 
-### Instructions
-
-- Test-drive an implementation of the requirements
-- Make sure your code is [linted](https://github.com/rubocop-hq/rubocop)
-- [Open a PR](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) when you've finished
-
 ### Requirements
 
 I want a program that I can load in IRB that allows me to
