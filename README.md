@@ -1,11 +1,5 @@
-### Quick Start
-
-Fork this repository to your github account and clone it to your machine. Then install the dependencies:
-```bash
-> git clone https://github.com/makersacademy/birthdays.git
-> cd birthdays
-> bundle
-```
+### Background
+Completed as part of my Week 4 training on TDD and OOP.
 
 ### Instructions
 
@@ -23,12 +17,3 @@ I want a program that I can load in IRB that allows me to
 More requirements:
 - Test-drive extracting a birthday class
 - Isolate your birthday list class using a mock for Birthday
-
-### TDD resources
-
-- https://github.com/makersacademy/course/blob/master/pills/tdd.md
-- https://github.com/makersacademy/course/blob/master/pills/tdd_quality_discussion.md
-
-### Mocking
-
-- https://relishapp.com/rspec/rspec-mocks/docs/basics/test-doubles
