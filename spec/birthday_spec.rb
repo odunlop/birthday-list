@@ -19,6 +19,6 @@ describe Birthday do
 
   it "can check if it's someone's birthday today" do
     birthday = Birthday.new("Lucky", "06/01/1997")
-    expect(birthday).to be_today
+    expect(birthday).not_to be_today
   end
 end
